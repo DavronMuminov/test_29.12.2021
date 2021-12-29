@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Git-pro"
 include ':app'
+include ':logs2'
